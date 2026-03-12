@@ -22,6 +22,10 @@ nav a{
     text-decoration:none;
 }
 
+nav a:visited{
+    color:white;
+}
+
 nav a:hover{
     text-decoration:underline;
 }
@@ -66,4 +70,5 @@ footer{
     margin:0 10px;
     color:white;
     text-decoration:none;
+
 }
